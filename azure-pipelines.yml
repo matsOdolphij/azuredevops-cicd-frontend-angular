@@ -27,4 +27,4 @@ steps:
     azureSubscription: 'Betalen naar gebruik(231ba11f-b167-49ce-bd39-3e76b4f324f8)'
     Destination: 'AzureBlob'
     storage: 'innovatiedagangular'
-    ContainerName: '$web'
+    ContainerName: '\$web'
